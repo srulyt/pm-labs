@@ -29,3 +29,8 @@ Lab 4 focuses on tool extension, skill building, and multi-agent orchestration: 
 - `docs/Lab2/LabGuide.md` — Lab instructions
 - `docs/Lab2/PRD-Rubric.md` — PRD quality rubric
 - `docs/Lab2/PRD-Reference.md` — Comparison PRD
+## Contributors
+
+| Name | Date |
+|------|------|
+| Oren Salzberg | February 26, 2026 |
