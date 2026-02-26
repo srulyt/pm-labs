@@ -29,3 +29,10 @@ Lab 4 focuses on tool extension, skill building, and multi-agent orchestration: 
 - `docs/Lab2/LabGuide.md` — Lab instructions
 - `docs/Lab2/PRD-Rubric.md` — PRD quality rubric
 - `docs/Lab2/PRD-Reference.md` — Comparison PRD
+
+## Summary
+
+This course provides hands-on experience with AI coding agents tailored for product managers. Across four labs, students progress from basic spec-driven prompting to advanced context management, custom agent creation, and multi-agent orchestration — building practical skills to integrate AI tools into everyday PM workflows.
+
+**Author:** Naama Tsafrir
+**Date:** February 26, 2026
